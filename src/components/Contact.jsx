@@ -3,7 +3,7 @@ import { toast } from "react-toastify";
 
 const APP_ID = 2;
 const API_TOKEN = '2f1e3d4c-5b6a-7c8d-9e0f-1a2b3c4d5e6f';
-const ADMIN_EMAIL = 'dipakkarmur45@gmail.com';
+const ADMIN_EMAIL = 'dipakkarmur45@gmail.com'; //limaarealty1@gmail.com
 
 const Contact = () => {
     const [email, setEmail] = useState('');
@@ -30,7 +30,7 @@ const Contact = () => {
             // });
             setLoading(true);
             const res = await fetch(
-                `http://127.0.0.1:8000/api/send/email`, {
+                `https://api.heerrealtor.com/api/send/email`, {
                 method: "POST",
                 headers: {
                     "Content-Type": "application/json",
@@ -105,7 +105,7 @@ https://limaarealty.com
             }
             )
             const response = await fetch(
-                `http://127.0.0.1:8000/api/send/email`, {
+                `https://api.heerrealtor.com/api/send/email`, {
                 method: "POST",
                 headers: {
                     "Content-Type": "application/json",
