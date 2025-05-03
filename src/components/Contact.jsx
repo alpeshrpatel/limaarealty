@@ -3,7 +3,7 @@ import { toast } from "react-toastify";
 
 const APP_ID = 2;
 const API_TOKEN = '2f1e3d4c-5b6a-7c8d-9e0f-1a2b3c4d5e6f';
-const ADMIN_EMAIL = 'dipakkarmur45@gmail.com'; //limaarealty1@gmail.com
+const ADMIN_EMAIL = 'limaarealty1@gmail.com'; //limaarealty1@gmail.com
 
 const Contact = () => {
     const [email, setEmail] = useState('');
@@ -49,15 +49,15 @@ const Contact = () => {
                             }
                         ],
                         content: {
-                            subject: "Welcome to LimaRealty! 🏡 Your Path to the Perfect Property",
+                            subject: "Welcome to LimaaRealty! 🏡 Your Path to the Perfect Property",
     body_text: `
 Hi there,  
 
-Thank you for connecting with LimaRealty! 🌟  
+Thank you for connecting with LimaaRealty! 🌟  
 
 We're excited to welcome you to our community and can't wait to help you achieve your real estate goals. Whether you're looking to buy, sell, or invest, our team of dedicated professionals is here to provide personalized service every step of the way.  
 
-Here's what makes LimaRealty different:  
+Here's what makes LimaaRealty different:  
 - 🏡 Curated selection of premium properties  
 - 📊 In-depth market analysis and investment advice  
 - 🤝 Dedicated support from industry experts  
@@ -67,18 +67,18 @@ Watch your inbox for exclusive property updates tailored to your preferences. Ha
 
 Warm regards,  
  
-LimaRealty Team  
+LimaaRealty Team  
 Your trusted real estate partner  
 https://limaarealty.com
 `,
     body_html: `
 <p>Hi <b>there</b>,</p>  
 
-<p>Thank you for connecting with <b>LimaRealty</b>! 🌟</p>  
+<p>Thank you for connecting with <b>LimaaRealty</b>! 🌟</p>  
 
 <p>We're excited to welcome you to our community and can't wait to help you achieve your real estate goals. Whether you're looking to buy, sell, or invest, our team of dedicated professionals is here to provide personalized service every step of the way.</p>  
 
-<p>Here's what makes LimaRealty different:</p>  
+<p>Here's what makes LimaaRealty different:</p>  
 <ul>  
   <li>🏡 Curated selection of premium properties</li>  
   <li>📊 In-depth market analysis and investment advice</li>  
@@ -93,7 +93,7 @@ https://limaarealty.com
 <hr style="margin: 30px 0;" />
 
 <div style="font-size: 13px; color: #888; text-align: center;">
-  <img src="https://www.limaarealty.com/limma_navbar.png" alt="LimaRealty Logo" width="120" style="margin-bottom: 10px;" />
+  <img src="https://www.limaarealty.com/limma_navbar.png" alt="LimaaRealty Logo" width="120" style="margin-bottom: 10px;" />
   <p><b>LimaaRealty</b><br/>
   Your trusted real estate partner<br/>
   <a href="https://limaarealty.com" style="color: #0073b1; text-decoration: none;">www.limaarealty.com</a></p>
@@ -170,7 +170,7 @@ https://limaarealty.com
               <hr style="margin: 30px 0;" />
 
      <div style="font-size: 13px; color: #888; text-align: center;">
-  <img src="https://www.limaarealty.com/limma_navbar.png" alt="LimaRealty Logo" width="120" style="margin-bottom: 10px;" />
+  <img src="https://www.limaarealty.com/limma_navbar.png" alt="LimaaRealty Logo" width="120" style="margin-bottom: 10px;" />
   <p><b>LimaaRealty</b><br/>
   Your trusted real estate partner<br/>
   <a href="https://limaarealty.com" style="color: #0073b1; text-decoration: none;">www.limaarealty.com</a></p>
