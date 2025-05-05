@@ -30,7 +30,7 @@ const Contact = () => {
             // });
             setLoading(true);
             const res = await fetch(
-                `https://api.heerrealtor.com/api/send/email`, {
+                `https://api.communication.gotestli.com/api/send/email`, {
                 method: "POST",
                 headers: {
                     "Content-Type": "application/json",
@@ -105,7 +105,7 @@ https://limaarealty.com
             }
             )
             const response = await fetch(
-                `https://api.heerrealtor.com/api/send/email`, {
+                `https://api.communication.gotestli.com/api/send/email`, {
                 method: "POST",
                 headers: {
                     "Content-Type": "application/json",
@@ -187,7 +187,10 @@ https://limaarealty.com
             }
 
             const result = await res.json();
-
+            setName("");
+            setEmail("");
+            setSubject("");
+            setMessage("");
             // if (res.status === 200 && response.status === 200) {
                 toast.success("Your message Recieved, we will contact you soon!");
             // }
