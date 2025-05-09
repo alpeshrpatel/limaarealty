@@ -206,7 +206,7 @@ https://limaarealty.com
     return (
         <div
             id="contact"
-            className="container  width-[100vw]  flex items-center justify-center flex-col my-10"
+            className="container  width-[100vw]  flex items-center justify-center flex-col my-10 mx-auto "
         >
             <h3 className="text-4xl font-bold mb-4 text-[#34495E] inline-block">
                 Contact us

@@ -69,8 +69,8 @@ const FeaturedAreas = () => {
         },
         {
             id: 8,
-            name: "RiverSide",
-            category: "RiverSide",
+            name: "Riverside",
+            category: "Riverside",
             image: "/riverside.jpg",
             description: "Riverside is a city in and the county seat of Riverside County, California, United States. It is named for its location beside the Santa Ana River.",
             stats: { avgPrice: "$1.2M", walkScore: 60, popularity: "High" }
