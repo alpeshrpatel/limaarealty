@@ -96,7 +96,7 @@ https://limaainc.com
   <img src="https://www.limaainc.com/limma_navbar.png" alt="Limaa Inc Logo" width="120" style="margin-bottom: 10px;" />
   <p><b>Limaa Inc</b><br/>
   Your trusted real estate partner<br/>
-  <a href="https://limaainc.com" style="color: #0073b1; text-decoration: none;">www.Limaa Inc.com</a></p>
+  <a href="https://limaainc.com" style="color: #0073b1; text-decoration: none;">www.limaainc.com</a></p>
 </div>
 `
                         },
@@ -173,7 +173,7 @@ https://limaainc.com
   <img src="https://www.limaainc.com/limma_navbar.png" alt="Limaa Inc Logo" width="120" style="margin-bottom: 10px;" />
   <p><b>Limaa Inc</b><br/>
   Your trusted real estate partner<br/>
-  <a href="https://limaainc.com" style="color: #0073b1; text-decoration: none;">www.Limaa Inc.com</a></p>
+  <a href="https://limaainc.com" style="color: #0073b1; text-decoration: none;">www.limaainc.com</a></p>
 </div>
               `
                         }
