@@ -41,7 +41,7 @@ const Contact = () => {
                     {
                         app_id: APP_ID,
                         sender: ADMIN_EMAIL,
-                        sender_name: "LimaaRealty",
+                        sender_name: "Limaa Inc",
                         recipients: [
                             {
                                 email: email,
@@ -49,15 +49,15 @@ const Contact = () => {
                             }
                         ],
                         content: {
-                            subject: "Welcome to LimaaRealty! 🏡 Your Path to the Perfect Property",
+                            subject: "Welcome to Limaa Inc! 🏡 Your Path to the Perfect Property",
     body_text: `
 Hi there,  
 
-Thank you for connecting with LimaaRealty! 🌟  
+Thank you for connecting with Limaa Inc! 🌟  
 
 We're excited to welcome you to our community and can't wait to help you achieve your real estate goals. Whether you're looking to buy, sell, or invest, our team of dedicated professionals is here to provide personalized service every step of the way.  
 
-Here's what makes LimaaRealty different:  
+Here's what makes Limaa Inc different:  
 - 🏡 Curated selection of premium properties  
 - 📊 In-depth market analysis and investment advice  
 - 🤝 Dedicated support from industry experts  
@@ -67,18 +67,18 @@ Watch your inbox for exclusive property updates tailored to your preferences. Ha
 
 Warm regards,  
  
-LimaaRealty Team  
+Limaa Inc Team  
 Your trusted real estate partner  
-https://limaarealty.com
+https://limaainc.com
 `,
     body_html: `
 <p>Hi <b>there</b>,</p>  
 
-<p>Thank you for connecting with <b>LimaaRealty</b>! 🌟</p>  
+<p>Thank you for connecting with <b>Limaa Inc</b>! 🌟</p>  
 
 <p>We're excited to welcome you to our community and can't wait to help you achieve your real estate goals. Whether you're looking to buy, sell, or invest, our team of dedicated professionals is here to provide personalized service every step of the way.</p>  
 
-<p>Here's what makes LimaaRealty different:</p>  
+<p>Here's what makes Limaa Inc different:</p>  
 <ul>  
   <li>🏡 Curated selection of premium properties</li>  
   <li>📊 In-depth market analysis and investment advice</li>  
@@ -89,14 +89,14 @@ https://limaarealty.com
 <p>Watch your inbox for exclusive property updates tailored to your preferences. Have questions or ready to start your journey? We're just a call or message away!</p>  
 
 <p>Warm regards,<br/>  
-<p>LimaaRealty Team</p>
+<p>Limaa Inc Team</p>
 <hr style="margin: 30px 0;" />
 
 <div style="font-size: 13px; color: #888; text-align: center;">
-  <img src="https://www.limaarealty.com/limma_navbar.png" alt="LimaaRealty Logo" width="120" style="margin-bottom: 10px;" />
-  <p><b>LimaaRealty</b><br/>
+  <img src="https://www.limaainc.com/limma_navbar.png" alt="Limaa Inc Logo" width="120" style="margin-bottom: 10px;" />
+  <p><b>Limaa Inc</b><br/>
   Your trusted real estate partner<br/>
-  <a href="https://limaarealty.com" style="color: #0073b1; text-decoration: none;">www.limaarealty.com</a></p>
+  <a href="https://limaainc.com" style="color: #0073b1; text-decoration: none;">www.Limaa Inc.com</a></p>
 </div>
 `
                         },
@@ -116,11 +116,11 @@ https://limaarealty.com
                     {
                         app_id: APP_ID,
                         sender: ADMIN_EMAIL,
-                        sender_name: "LimaaRealty",
+                        sender_name: "Limaa Inc",
                         recipients: [
                             {
                                 email: ADMIN_EMAIL,
-                                name: 'LimaaRealty',
+                                name: 'Limaa Inc',
                             }
                         ],
                         content: {
@@ -142,9 +142,9 @@ https://limaarealty.com
             
             Best regards,  
             
-          Team LimaaRealty  
+          Team Limaa Inc  
           Your trusted partner in real estate  
-          https://www.limaarealty.com
+          https://www.limaainc.com
               `,
                             body_html: `
             <p>Hi <b>Admin</b>,</p>
@@ -166,14 +166,14 @@ https://limaarealty.com
             <p>Please respond to the user at your earliest convenience.</p>
             
             <p>Best regards,<br/>
-            <p>LimaaRealty Team</p>
+            <p>Limaa Inc Team</p>
               <hr style="margin: 30px 0;" />
 
      <div style="font-size: 13px; color: #888; text-align: center;">
-  <img src="https://www.limaarealty.com/limma_navbar.png" alt="LimaaRealty Logo" width="120" style="margin-bottom: 10px;" />
-  <p><b>LimaaRealty</b><br/>
+  <img src="https://www.limaainc.com/limma_navbar.png" alt="Limaa Inc Logo" width="120" style="margin-bottom: 10px;" />
+  <p><b>Limaa Inc</b><br/>
   Your trusted real estate partner<br/>
-  <a href="https://limaarealty.com" style="color: #0073b1; text-decoration: none;">www.limaarealty.com</a></p>
+  <a href="https://limaainc.com" style="color: #0073b1; text-decoration: none;">www.Limaa Inc.com</a></p>
 </div>
               `
                         }
