@@ -50,8 +50,8 @@ const MortgageFooter = () => {
             <p className="mb-2">3020 Quartz LN.</p>
             <p className="mb-2">#1 Fullerton, CA 92831</p>
             <p className="mb-2">Phone: (909) 859-9977</p>
-            <a href="mailto:limaarealty1@gmail.com" className="hover:underline">
-              limaarealty1@gmail.com
+            <a href="mailto:dhavalv@limaainc.com" className="hover:underline">
+              dhavalv@limaainc.com
             </a>
           </div>
 

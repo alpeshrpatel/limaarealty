@@ -3,7 +3,7 @@ import { toast } from "react-toastify";
 
 const APP_ID = 2;
 const API_TOKEN = '2f1e3d4c-5b6a-7c8d-9e0f-1a2b3c4d5e6f';
-const ADMIN_EMAIL = 'limaarealty1@gmail.com'; //limaarealty1@gmail.com
+const ADMIN_EMAIL = 'dhavalv@limaainc.com'; //dhavalv@limaainc.com
 
 const Contact = () => {
     const [email, setEmail] = useState('');
@@ -262,7 +262,7 @@ https://limaarealty.com
                             </div>
                             <div>
                                 <h3 className="text-lg font-semibold text-[#3498DB]">Email Us</h3>
-                                <p className="text-gray-600">limaarealty1@gmail.com</p>
+                                <p className="text-gray-600">dhavalv@limaainc.com</p>
                             </div>
                         </div>
 
