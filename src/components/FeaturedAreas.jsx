@@ -189,7 +189,7 @@ const FeaturedAreas = () => {
         },
         {
             id: 23,
-            name: "Mission-Viejo",
+            name: "Mission Viejo",
             category: "Orange",
             image: "/Mission-Viejo.jpg",
             description: "Mission Viejo is a large master-planned community located in the Saddleback Valley in South Orange County. It is considered one of the largest master-planned communities ever built under a single project in the United States.",

@@ -229,7 +229,7 @@ https://limaainc.com
                             className="flex items-center group"
 
                         >
-                            <div className="rounded-full w-12 h-12 flex items-center justify-center bg-sky-50 text-sky-500 text-xl mr-4 group-hover:bg-sky-500 group-hover:text-white transition duration-300">
+                            <div className="rounded-full w-12 h-12 flex items-center justify-center bg-sky-200 text-sky-500 text-xl mr-4 group-hover:bg-sky-500 group-hover:text-white transition duration-300">
                                 <i className="bi bi-geo-alt"></i>
                             </div>
                             <div>
@@ -245,7 +245,7 @@ https://limaainc.com
                             className="flex items-center group"
 
                         >
-                            <div className="rounded-full w-12 h-12 flex items-center justify-center bg-sky-50 text-sky-500 text-xl mr-4 group-hover:bg-sky-500 group-hover:text-white transition duration-300">
+                            <div className="rounded-full w-12 h-12 flex items-center justify-center bg-sky-200 text-sky-500 text-xl mr-4 group-hover:bg-sky-500 group-hover:text-white transition duration-300">
                                 <i className="bi bi-telephone"></i>
                             </div>
                             <div>
@@ -257,7 +257,7 @@ https://limaainc.com
                             className="flex items-center group"
 
                         >
-                            <div className="rounded-full w-12 h-12 flex items-center justify-center bg-sky-50 text-sky-500 text-xl mr-4 group-hover:bg-sky-500 group-hover:text-white transition duration-300">
+                            <div className="rounded-full w-12 h-12 flex items-center justify-center bg-sky-200 text-sky-500 text-xl mr-4 group-hover:bg-sky-500 group-hover:text-white transition duration-300">
                                 <i className="bi bi-envelope"></i>
                             </div>
                             <div>
