@@ -92,12 +92,12 @@ const MortgageFooter = () => {
             {/* <a href="#" className="hover:text-gray-200">
               <Instagram size={24} />
             </a> */}
-            <div className="flex items-center">
+            {/* <div className="flex items-center">
               <span className="text-sm">Powered By</span>
-              <a href="https://gotestli.com" className="ml-2 hover:underline">
+              <a href="https://gotestli.com/" className="ml-2 hover:underline">
                 Gotestli.com
               </a>
-            </div>
+            </div> */}
           </div>
         </div>
         {/* <div className='absolute bottom-[1px]  right-10 flex justify-center items-center'>
